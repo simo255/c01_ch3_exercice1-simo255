@@ -5,7 +5,6 @@
 def square_root(number: int) -> float:
     # TODO completer la fonction
 
-import math
 sqrt=input('veuillez entrer un nombre dont vous voulez calculer la racine carrée : ')
 s= math.sqrt(int(sqrt))
 print('le resulteat est', s)
