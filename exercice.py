@@ -17,8 +17,6 @@ pow=input('veuillez entrer un nombre dont vous voulez calculer le carré : ')
 r= math.pow(int(pow), 2)
 print('le resultat est', r)
 
-    return squared
-
 
 def main() -> None:
     for i in range(25):
