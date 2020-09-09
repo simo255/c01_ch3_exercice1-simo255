@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import math
-def square_root(number: int) -> float:
+#def square_root(number: int) -> float:
     # TODO completer la fonction
 
 sqrt=input('veuillez entrer un nombre dont vous voulez calculer la racine carrée : ')
