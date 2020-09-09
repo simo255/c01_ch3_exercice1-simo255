@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*-
 
 import math
-#def square_root(number: int) -> float:
+def square_root(number: int) -> float:
     # TODO completer la fonction
 
 sqrt=input('veuillez entrer un nombre dont vous voulez calculer la racine carrée : ')
 s= math.sqrt(int(sqrt))
 print('le resulteat est', s)
 
-#def square(number: int) -> int:
+def square(number: int) -> int:
     # TODO completer la fonction
 pow=input('veuillez entrer un nombre dont vous voulez calculer le carré : ')
 r= math.pow(int(pow), 2)
