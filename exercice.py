@@ -9,7 +9,7 @@ sqrt=input('veuillez entrer un nombre dont vous voulez calculer la racine carré
 s= math.sqrt(int(sqrt))
 print('le resulteat est', s)
 
-def square(number: int) -> int:
+#def square(number: int) -> int:
     # TODO completer la fonction
 pow=input('veuillez entrer un nombre dont vous voulez calculer le carré : ')
 r= math.pow(int(pow), 2)
