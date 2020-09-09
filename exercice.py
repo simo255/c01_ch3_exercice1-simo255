@@ -12,6 +12,11 @@ print('le resulteat est', s)
 
 def square(number: int) -> int:
     # TODO completer la fonction
+    import math
+pow=input('veuillez entrer un nombre dont vous voulez calculer le carré : ')
+r= math.pow(int(pow), 2)
+print('le resultat est', r)
+
     return squared
 
 
